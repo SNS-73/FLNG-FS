@@ -1,0 +1,7 @@
+streamlit
+matplotlib.pyplot
+numpy
+pandas
+numpy_financial import irr, pmt, npv
+io
+plotly.express as px
