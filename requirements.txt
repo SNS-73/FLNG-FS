@@ -1,7 +1,6 @@
 streamlit
-matplotlib.pyplot
+matplotlib
 numpy
 pandas
-numpy_financial import irr, pmt, npv
-io
-plotly.express as px
+numpy_financial
+plotly
